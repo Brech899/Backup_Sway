@@ -1,0 +1,24 @@
+{
+  "Applications": {
+    "/home/pc/.local/share/applications/The Binding of Isaac Rebirth.desktop": 3,
+    "/home/pc/.local/share/applications/xodus-nexus.desktop": 2,
+    "/usr/share/applications/auto-cpufreq-gtk.desktop": 1,
+    "/usr/share/applications/brave-browser.desktop": 79,
+    "/usr/share/applications/cmake-gui.desktop": 1,
+    "/usr/share/applications/code-oss.desktop": 9,
+    "/usr/share/applications/com.vysp3r.ProtonPlus.desktop": 1,
+    "/usr/share/applications/concat.desktop": 8,
+    "/usr/share/applications/discord.desktop": 19,
+    "/usr/share/applications/heimdall.desktop": 2,
+    "/usr/share/applications/net.lutris.Lutris.desktop": 13,
+    "/usr/share/applications/org.gnome.seahorse.Application.desktop": 1,
+    "/usr/share/applications/org.kde.kdenlive.desktop": 2,
+    "/usr/share/applications/polychromatic.desktop": 3,
+    "/usr/share/applications/scrcpy.desktop": 1,
+    "/usr/share/applications/space.bigrat.mocktail.desktop": 3,
+    "/usr/share/applications/steam.desktop": 5,
+    "/usr/share/applications/superproductivity.desktop": 1,
+    "/usr/share/applications/vim.desktop": 1,
+    "/var/lib/flatpak/exports/share/applications/org.vinegarhq.Sober.desktop": 66
+  }
+}

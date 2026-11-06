@@ -1,0 +1,24 @@
+{
+  "Applications": [
+    "/var/lib/flatpak/exports/share/applications/org.vinegarhq.Sober.desktop",
+    "/usr/share/applications/code-oss.desktop",
+    "/usr/share/applications/brave-browser.desktop",
+    "/usr/share/applications/org.kde.kdenlive.desktop",
+    "/usr/share/applications/space.bigrat.mocktail.desktop",
+    "/usr/share/applications/concat.desktop",
+    "/usr/share/applications/discord.desktop",
+    "/usr/share/applications/net.lutris.Lutris.desktop",
+    "/usr/share/applications/superproductivity.desktop",
+    "/usr/share/applications/vim.desktop",
+    "/usr/share/applications/steam.desktop",
+    "/home/pc/.local/share/applications/The Binding of Isaac Rebirth.desktop",
+    "/usr/share/applications/heimdall.desktop",
+    "/usr/share/applications/scrcpy.desktop",
+    "/usr/share/applications/cmake-gui.desktop",
+    "/usr/share/applications/org.gnome.seahorse.Application.desktop",
+    "/home/pc/.local/share/applications/xodus-nexus.desktop",
+    "/usr/share/applications/com.vysp3r.ProtonPlus.desktop",
+    "/usr/share/applications/polychromatic.desktop",
+    "/usr/share/applications/auto-cpufreq-gtk.desktop"
+  ]
+}
